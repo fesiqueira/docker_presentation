@@ -1,0 +1,34 @@
+Docker
+Introdução ao Docker
+Tags: docker, container, devops
+
+Felipe Siqueira Pinheiro
+Desenvolvedor Backend, Goomer
+fesiqueirapinheiro@gmail.com
+https://github.com/ochefe
+
+* Como funciona?
+
+.image architecture.svg
+
+* Por que usar?
+
+.image benefits.jpg
+
+* Por que não uma VM?
+
+.image containervsvm.jpg
+
+* Comandos basicos
+
+.code basic.sh
+
+* Estrutura de um Dockerfile
+
+.code Dockerfile
+
+* Onde aprender mais?
+
+.link https://www.youtube.com/watch?v=0cDj7citEjE LinuxTips
+
+.link https://hub.docker.com DockerHub
